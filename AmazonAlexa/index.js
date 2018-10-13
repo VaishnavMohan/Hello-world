@@ -2,6 +2,7 @@
 /* eslint-disable  no-console */
 
 const Alexa = require('ask-sdk-core');
+const Alexa = require('ask-sdk-core');
 
 const LaunchRequestHandler = {
   canHandle(handlerInput) {
